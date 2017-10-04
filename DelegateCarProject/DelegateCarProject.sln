@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateCarProject", "DelegateCarProject.csproj", "{8B4450EA-AE37-4E91-921E-8823BC0F4346}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B4450EA-AE37-4E91-921E-8823BC0F4346}.Debug|x86.ActiveCfg = Debug|x86
+		{8B4450EA-AE37-4E91-921E-8823BC0F4346}.Debug|x86.Build.0 = Debug|x86
+		{8B4450EA-AE37-4E91-921E-8823BC0F4346}.Release|x86.ActiveCfg = Release|x86
+		{8B4450EA-AE37-4E91-921E-8823BC0F4346}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+/Users/DamodarBhat/Documents/Code/Lambda/bin/Debug/Lambda.exe
+/Users/DamodarBhat/Documents/Code/Lambda/bin/Debug/Lambda.pdb
+/Users/DamodarBhat/Documents/Code/Lambda/obj/x86/Debug/Lambda.csproj.CoreCompileInputs.cache
+/Users/DamodarBhat/Documents/Code/Lambda/obj/x86/Debug/Lambda.exe
+/Users/DamodarBhat/Documents/Code/Lambda/obj/x86/Debug/Lambda.pdb

@@ -1,0 +1,5 @@
+/Users/DamodarBhat/Documents/Code/LearningInterface/LearningInterface/bin/Debug/LearningInterface.exe
+/Users/DamodarBhat/Documents/Code/LearningInterface/LearningInterface/bin/Debug/LearningInterface.pdb
+/Users/DamodarBhat/Documents/Code/LearningInterface/LearningInterface/obj/x86/Debug/LearningInterface.csproj.CoreCompileInputs.cache
+/Users/DamodarBhat/Documents/Code/LearningInterface/LearningInterface/obj/x86/Debug/LearningInterface.exe
+/Users/DamodarBhat/Documents/Code/LearningInterface/LearningInterface/obj/x86/Debug/LearningInterface.pdb

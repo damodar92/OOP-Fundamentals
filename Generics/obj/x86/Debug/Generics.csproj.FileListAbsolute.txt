@@ -1,0 +1,5 @@
+/Users/DamodarBhat/Documents/Code/Generics/bin/Debug/Generics.exe
+/Users/DamodarBhat/Documents/Code/Generics/bin/Debug/Generics.pdb
+/Users/DamodarBhat/Documents/Code/Generics/obj/x86/Debug/Generics.csproj.CoreCompileInputs.cache
+/Users/DamodarBhat/Documents/Code/Generics/obj/x86/Debug/Generics.exe
+/Users/DamodarBhat/Documents/Code/Generics/obj/x86/Debug/Generics.pdb

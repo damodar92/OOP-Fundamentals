@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{CB867248-81F1-4CB7-A81E-12C4E1C133AB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CloneablePoint/Properties/Point.cs">
+    <Files>
+      <File FileName="CloneablePoint/Properties/Point.cs" Line="60" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CloneablePoint PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
